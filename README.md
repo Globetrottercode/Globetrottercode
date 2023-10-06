@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parsons<br>🌱 I’m currently learning Django<br>💬 Ask me about react, express , node , mongoDB, python , Django , flask<br>📫 How to reach me dassouvik180@gmail.com<br>⚡ Fun fact : Lizards freak me out !!!<br>👀 I’m interested in developing web applications, running , swimming and watching war movies
+🔭 I’m currently working on a product Jobox Hire<br>🌱 I’m currently learning Django<br>💬 Ask me about react, express , node , mongoDB, python , Django , flask<br>📫 How to reach me dassouvik180@gmail.com<br>⚡ Fun fact : Lizards freak me out !!!<br>👀 I’m interested in developing web applications, running , swimming and watching war movies
 
 
 ## 🌐 Socials:
